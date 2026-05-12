@@ -1,5 +1,6 @@
 # Physics-Aware Multi-Task Learning for Atmospheric Turbulence Parameterization
 
+[![Data & Supplementary](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.20140433-blue)](https://doi.org/10.5281/zenodo.20140433)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![DOI](https://img.shields.io/badge/DOI-10.1145%2F3815572.3815750-blue)](https://doi.org/10.1145/3815572.3815750)
 [![Conference](https://img.shields.io/badge/PASC-2026-green)](https://pasc26.pasc-conference.org)
